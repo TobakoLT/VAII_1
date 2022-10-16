@@ -19,7 +19,7 @@ body{
 
 .font-set{
     text-align: left;
-    font-family: Charcoal, sans-serif;
+    font-family: Charcoal, monospace;
 }
 
 .menu-button{
@@ -35,8 +35,10 @@ body{
 }
 
 .p-index{
- text-align: justify;
+    text-align: justify;
+    font-size: 18px;
 }
+
 
 .header1{
     width: 80%;
@@ -44,6 +46,7 @@ body{
 }
 
 .clanok1{
+    font-family: Charcoal, monospace;
     text-decoration: none;
     color: #000000;
     transition: 300ms;
