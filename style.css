@@ -1,0 +1,30 @@
+.bg-orange{
+    background-color: #ffb900;
+}
+
+.font-size{
+    font-size: x-large;
+    /*font-family: "Impact", "Charcoal", sans-serif;*/
+
+}
+
+.font-set{
+    text-decoration: none solid rgb(68, 68, 68);
+    text-align: center;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
+    font-family: "Impact", "Charcoal", sans-serif;
+}
+
+.menu-button{
+    float: left;
+    display: block;
+    height: 30px;
+    font-size: 25px;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    font-weight: 400;
+    transition: all 300ms;
+}
+
