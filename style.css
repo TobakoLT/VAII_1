@@ -67,6 +67,7 @@ body{
     position:relative;
     height:0;
 }
+
 .map-responsive iframe{
     left:0;
     top:0;
@@ -75,4 +76,12 @@ body{
     position:absolute;
 }
 
+.border-img img {
+    transition: .5s ease;
+}
+
+.border-img img:hover{
+    box-shadow: 0 0 0 10px #000000;
+    transition: .5s ease;
+}
 
