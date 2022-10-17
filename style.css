@@ -41,8 +41,8 @@ body{
 
 
 .header1{
-    width: 80%;
     margin-top: 20px;
+    padding-bottom: 15px;
 }
 
 .clanok1{
@@ -53,6 +53,12 @@ body{
 }
 .clanok1:hover{
     color: rgb(176, 105, 9);
+}
+
+.box{
+    box-sizing: border-box;
+    border: 3px solid transparent;
+    background-clip:padding-box;
 }
 
 
